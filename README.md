@@ -1,4 +1,4 @@
-# privmessage-templates
+# message-templates
 
 Message templates for osu! PH Tournaments and other stuff.
 
